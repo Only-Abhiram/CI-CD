@@ -7,7 +7,7 @@ app.use(express.json());
 app.get('/', (req, res)=>{
 
     res.json({
-        message:"You got this right"
+        message:"You got this right, great, this is an achviement, dont stop the hustle"
     });
 
 })
